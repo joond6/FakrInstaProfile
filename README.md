@@ -12,4 +12,8 @@ Libraries to install before Executing code
 4) seaborn
 5) matplotlib
 After installing all the libraries
-place both "fakeinsta.py" and "insta_train.csv"  in same folder now execute fakeinsta.py using any IDE or Terminal.
+fakeinsta.py: python code file to train, test.
+insta_train.csv: csv file containing historical instagarams profiles data.
+sampleFakeProfile.csv: sample fake profile to find the predcition is working right or not.
+sampleRealProfile.csv: sample real profile to find the prediction is working fine or not.
+note: place both "fakeinsta.py", "insta_train.csv", "sampleFakeProfile.csv","sampleRealProfile.csv"  in same folder now execute fakeinsta.py using any IDE or Terminal.
