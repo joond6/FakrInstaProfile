@@ -1,4 +1,4 @@
-# FakrInstaProfile
+# FakeInstaProfile
 
 Intro:
 Instagram is not immune to the proliferation of fake profiles. These are deceptive accounts created with various intentions, such as impersonation, spreading spam or scams, artificially boosting follower numbers, engaging in phishing, or promoting cyberbullying. The presence of fake profiles poses challenges to user trust, platform integrity, and online safety.
